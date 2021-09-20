@@ -1,4 +1,4 @@
-# AI-Batt-OS: Autonomous Identification of Battery Life Models Open-Source
+# AI-Batt-OS: Autonomous Identification of Battery Life Models (Open-Source)
 
 Open source implementation of some of the methods utilized by AI-Batt, a battery lifetime modeling and analysis toolkit.
 
